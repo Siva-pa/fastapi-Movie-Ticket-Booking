@@ -27,8 +27,12 @@ A FastAPI-based Movie Booking System that supports movie management, bookings, s
 
 project/
 │── main.py
+│
 │── requirements.txt
+│
 │── README.md
+|
+│── Screenshots
 
 ---
 
