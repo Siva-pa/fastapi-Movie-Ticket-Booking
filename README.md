@@ -38,7 +38,7 @@ project/
 
 ## ⚙️ Installation
 
-git clone https://github.com/S/cinestar-booking.git  
+git clone https://github.com/Siva-pa/fastapi-Movie-Ticket-Booking 
 cd cinestar-booking  
 
 python -m venv venv  
