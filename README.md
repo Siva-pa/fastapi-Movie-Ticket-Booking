@@ -38,7 +38,7 @@ project/
 
 ## ⚙️ Installation
 
-git clone https://github.com/your-username/cinestar-booking.git  
+git clone https://github.com/S/cinestar-booking.git  
 cd cinestar-booking  
 
 python -m venv venv  
